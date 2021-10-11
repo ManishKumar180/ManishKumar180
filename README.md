@@ -33,7 +33,7 @@
 - :man_technologist: 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: Fun fact: I love to attend Meetups for learning & podcast to explore and gain experience<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
