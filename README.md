@@ -4,7 +4,7 @@
   <br> I'm Manish Kumar, Front End Web Developer :computer:<br>
   <br>
   
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="cool animation gif" width="600" height="300">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="cool animation gif" width="600" height="300" border-radius="3px">
 
   
   
