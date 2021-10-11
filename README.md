@@ -35,7 +35,7 @@
 <h2 align="left">Product Tools  I use:</h2>
 
 <p align="left">
- <a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019">Visual Studio </a>
+<img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
  < a href="https://icons8.com/icon/6RHskkZGRABM/sublime-text">Sublime</a>
  <a href="https://iconape.com/vim-logo-logo-icon-svg-png.html">Vim</a>
  
