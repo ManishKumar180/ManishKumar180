@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
+  <br> I'm Manish Kumar, Front End Web Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -27,10 +27,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
+- :computer: I'm currently working on Projects
+- :hourglass_flowing_sand:  Learning Mern Stack , DBMS ,DJango
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :man_technologist: 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
