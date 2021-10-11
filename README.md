@@ -36,8 +36,8 @@
 
 <p align="left">
 <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
- < a href="https://icons8.com/icon/6RHskkZGRABM/sublime-text">Sublime</a>
- <a href="https://iconape.com/vim-logo-logo-icon-svg-png.html">Vim</a>
+ < img src="https://icons8.com/icon/6RHskkZGRABM/sublime-text">
+ <img src="https://iconape.com/vim-logo-logo-icon-svg-png.html">
  
  
  </p>
