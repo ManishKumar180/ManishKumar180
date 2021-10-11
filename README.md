@@ -32,11 +32,12 @@
  <a href="https://www.gnu.org/software/bash/"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
  </a>
     </p>
+    <br> <br>
 <h2 align="left">Productive Tools  I use:</h2>
 
 <p align="left">
 <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
- < img src="https://icons8.com/icon/6RHskkZGRABM/sublime-text">
+<img src="https://img.icons8.com/color/48/000000/sublime-text.png"/>
  <img src="https://iconape.com/wp-content/files/gl/348990/svg/348990.svg" height="50" width="50"/>
  
  
