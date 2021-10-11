@@ -48,9 +48,9 @@
 - :computer: I'm currently working on Projects
 - :hourglass_flowing_sand:  Learning Mern Stack , DBMS ,DJango
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: 
+- :man_technologist: A Linux Enthusiast
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+<!-- - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition -->
 - :zap: Fun fact: I love to attend Meetups for learning & podcast to explore and gain experience<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
