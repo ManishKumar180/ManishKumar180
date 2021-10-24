@@ -56,16 +56,14 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 <h3 align="center">Find me on</h3>
 <p align="center"><a 
-href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
+href="https://github.com/ManishKumar180" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" 
+href="https://twitter.com/Manishk961" target="_blank"><img alt="Twitter" 
 src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> <a 
-href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
+href="https://linkedin.com/in/manish-kumar-6309b0214" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
-href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
-src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a> 
+
+
 </p>
 <p align="center">
 <br>
