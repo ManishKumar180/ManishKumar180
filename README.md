@@ -9,8 +9,7 @@
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="cool animation gif" width="700" height="400" border-radius="3px">
 <br>
   
-    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- </abc>
+   
  <br>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies  I use:</h2>
