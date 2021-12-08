@@ -6,7 +6,7 @@
   <br>
   <br>
   <br>
-![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
+
 <br>
   
    
