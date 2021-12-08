@@ -6,7 +6,7 @@
   <br>
   <br>
   <br>
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="cool animation gif" width="700" height="400" border-radius="3px">
+![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
 <br>
   
    
