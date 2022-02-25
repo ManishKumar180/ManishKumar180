@@ -52,6 +52,7 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 <!-- - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition -->
 - :zap: Fun fact: I love to attend Meetups for learning & podcast to explore and gain experience<br>
+ <!---DSA Enthusiast--->
 
 <h2 align="left">:heart: Let's get connected:</h2>
 <h3 align="center">Find me on</h3>
